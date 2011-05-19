@@ -38,3 +38,6 @@
 .body { 
         background-color:#CCFFCC; 
        }
+
+.floatright { float: right; }
+.floatleft  { float: left; }
