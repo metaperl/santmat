@@ -971,7 +971,7 @@ she might've been.
   </body>
 </html>
 </richcontent>
-<node TEXT="Gurbachan Singh" ID="ID_1414462534" CREATED="1306703857325" MODIFIED="1306703878796" COLOR="#111111">
+<node TEXT="Gurbachan Singh" ID="ID_1414462534" CREATED="1306703857325" MODIFIED="1306703938837" COLOR="#111111">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
 <html>
@@ -980,11 +980,26 @@ she might've been.
   </head>
   <body>
     <p>
-      1930-1980 --- gunned down by a fanatic
+      1930-1980 --- killed by gunshots - http://www.nirankari.org/modules/founder/babagurbachan/founderGsRes.shtml
     </p>
   </body>
 </html>
 </richcontent>
+<node TEXT="Hardev Singh" ID="ID_589497710" CREATED="1306703939830" MODIFIED="1306703998879" COLOR="#111111">
+<font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      son of Gurbachan. (1980 - p
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </node>

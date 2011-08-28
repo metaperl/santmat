@@ -941,8 +941,23 @@ she might've been.
 </node>
 </node>
 </node>
-<node TEXT="" ID="ID_1267220453" CREATED="1306703431865" MODIFIED="1306703431866" COLOR="#111111">
+<node TEXT="Sant Nirankari Mission" ID="ID_1267220453" CREATED="1306703431865" MODIFIED="1306703500131" COLOR="#111111" LINK="http://www.nirankari.org/">
 <font SIZE="12"/>
+<node TEXT="Buta Singh" ID="ID_361042573" CREATED="1306703515276" MODIFIED="1306703758739" COLOR="#111111">
+<font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1873-1943
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </node>

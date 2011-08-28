@@ -34,7 +34,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Shabad Misc" FOLDED="true" POSITION="left" ID="ID_753005195" CREATED="1261585462828" MODIFIED="1264302142763" COLOR="#0033ff">
+<node TEXT="Shabad Misc" POSITION="left" ID="ID_753005195" CREATED="1261585462828" MODIFIED="1264302142763" COLOR="#0033ff">
 <font NAME="SansSerif" SIZE="18"/>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <node TEXT="Swarup Anand" FOLDED="true" ID="ID_1184459890" CREATED="1261585462828" MODIFIED="1270175068680" COLOR="#00b439" LINK="http://www.ex-premie.org/papers/lineage1.htm">
@@ -157,8 +157,35 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Christopher Tims (Order of the Blue Star)" ID="ID_213577472" CREATED="1302683143165" MODIFIED="1302683239963" COLOR="#00b439" LINK="http://www.soundhealing.org/">
+</node>
+<node TEXT="Fubbi Quantz" POSITION="right" ID="ID_1659517307" CREATED="1261586400453" MODIFIED="1301345083374" COLOR="#0033ff">
+<font SIZE="18"/>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<node TEXT="Tim Arnold (AKATHA)" ID="ID_1964414673" CREATED="1261586417000" MODIFIED="1301341037840" COLOR="#00b439" LINK="http://www.akatha.org/">
 <font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+<node TEXT="Michael Owens" ID="ID_1873319196" CREATED="1261585970437" MODIFIED="1301341037842" COLOR="#00b439" LINK="http://www.thewayoftruth.org/">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+<node TEXT="Rebazar Tarzs" ID="ID_1829215641" CREATED="1261585970437" MODIFIED="1301341053697" COLOR="#00b439">
+<font NAME="SansSerif" SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="Paul Twitchell" ID="ID_1858537829" CREATED="1261585970437" MODIFIED="1301341053698" COLOR="#990000">
+<font NAME="SansSerif" SIZE="14"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="Eckankar" ID="ID_1767040559" CREATED="1261585970437" MODIFIED="1301341195965" COLOR="#111111" LINK="http://en.wikipedia.org/wiki/Eckankar">
+<font NAME="SansSerif" SIZE="12"/>
+<node TEXT="Darwin Gross" ID="ID_229119614" CREATED="1261585970437" MODIFIED="1301340434385" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="Harold Klemp (Eckankar)" ID="ID_924766965" CREATED="1261585970437" MODIFIED="1301341200974" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="Ford Johnson (Higher Consciousness Society)" ID="ID_468894158" CREATED="1261585970437" MODIFIED="1301340434389" COLOR="#111111" LINK="http://www.thetruth-seeker.com/">
+<font SIZE="12"/>
+</node>
+<node TEXT="Christopher Tims (Order of the Blue Star)" ID="ID_213577472" CREATED="1302683143165" MODIFIED="1314563197560" COLOR="#111111" LINK="http://www.soundhealing.org/">
+<font SIZE="12"/>
 <edge STYLE="bezier" WIDTH="thin"/>
 <richcontent TYPE="NOTE">
 <html>
@@ -173,33 +200,6 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Fubbi Quantz" FOLDED="true" POSITION="right" ID="ID_1659517307" CREATED="1261586400453" MODIFIED="1301345083374" COLOR="#0033ff">
-<font SIZE="18"/>
-<edge STYLE="sharp_bezier" WIDTH="8"/>
-<node TEXT="Tim Arnold (AKATHA)" ID="ID_1964414673" CREATED="1261586417000" MODIFIED="1301341037840" COLOR="#00b439" LINK="http://www.akatha.org/">
-<font SIZE="16"/>
-<edge STYLE="bezier" WIDTH="thin"/>
-</node>
-<node TEXT="Michael Owens" ID="ID_1873319196" CREATED="1261585970437" MODIFIED="1301341037842" COLOR="#00b439" LINK="http://www.thewayoftruth.org/">
-<font SIZE="16"/>
-<edge STYLE="bezier" WIDTH="thin"/>
-</node>
-<node TEXT="Rebazar Tarzs" FOLDED="true" ID="ID_1829215641" CREATED="1261585970437" MODIFIED="1301341053697" COLOR="#00b439">
-<font NAME="SansSerif" SIZE="16"/>
-<edge STYLE="bezier" WIDTH="thin"/>
-<node TEXT="Paul Twitchell" FOLDED="true" ID="ID_1858537829" CREATED="1261585970437" MODIFIED="1301341053698" COLOR="#990000">
-<font NAME="SansSerif" SIZE="14"/>
-<edge STYLE="bezier" WIDTH="thin"/>
-<node TEXT="Eckankar" FOLDED="true" ID="ID_1767040559" CREATED="1261585970437" MODIFIED="1301341195965" COLOR="#111111" LINK="http://en.wikipedia.org/wiki/Eckankar">
-<font NAME="SansSerif" SIZE="12"/>
-<node TEXT="Darwin Gross" FOLDED="true" ID="ID_229119614" CREATED="1261585970437" MODIFIED="1301340434385" COLOR="#111111">
-<font SIZE="12"/>
-<node TEXT="Harold Klemp (Eckankar)" FOLDED="true" ID="ID_924766965" CREATED="1261585970437" MODIFIED="1301341200974" COLOR="#111111">
-<font SIZE="12"/>
-<node TEXT="Ford Johnson (Higher Consciousness Society)" ID="ID_468894158" CREATED="1261585970437" MODIFIED="1301340434389" COLOR="#111111" LINK="http://www.thetruth-seeker.com/">
-<font SIZE="12"/>
-</node>
-</node>
 <node TEXT="ATOM" ID="ID_380719641" CREATED="1261585970437" MODIFIED="1301340434388" COLOR="#111111" LINK="http://atom.org">
 <font SIZE="12"/>
 </node>
@@ -209,16 +209,33 @@
 <node TEXT="Michael Turner (Spiritual Freedom Satsang)" ID="ID_1345703741" CREATED="1261585970437" MODIFIED="1301340434389" COLOR="#111111" LINK="http://groups.yahoo.com/group/SFS/">
 <font SIZE="12"/>
 </node>
-</node>
-<node TEXT="Jerry Mulvin (Divine Science of Light and Sound &amp; Surtoma?)" ID="ID_996415554" CREATED="1261585970437" MODIFIED="1301344073305" COLOR="#111111">
+<node TEXT="Sounds of Soul" FOLDED="true" ID="ID_1302500866" CREATED="1306701358240" MODIFIED="1306701441220" COLOR="#111111">
+<font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      According to [Novelguide](http://www.novelguide.com/a/discover/ear_01/ear_01_00174.html) Gary Olsen was with Sounds of Soul before appointed by the Lord to found MasterPath.
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="Gary Olsen (MasterPath)" ID="ID_1951324981" CREATED="1261585970437" MODIFIED="1301340615485" COLOR="#111111" LINK="http://www.masterpath.org/">
 <font SIZE="12"/>
 </node>
-<node TEXT="Gary Olsen (MasterPath)" ID="ID_1951324981" CREATED="1261585970437" MODIFIED="1301340615485" COLOR="#111111" LINK="http://www.masterpath.org/">
+</node>
+</node>
+<node TEXT="Jerry Mulvin (Divine Science of Light and Sound &amp; Surtoma?)" ID="ID_996415554" CREATED="1261585970437" MODIFIED="1301344073305" COLOR="#111111">
 <font SIZE="12"/>
 </node>
 </node>
 <node TEXT="MSIA" ID="ID_1025350139" CREATED="1261585970437" MODIFIED="1301341053699" COLOR="#111111" LINK="http://www.msia.org/">
 <font NAME="SansSerif" SIZE="12"/>
+</node>
+<node TEXT="Sher Gill" ID="ID_603599045" CREATED="1314564012291" MODIFIED="1314564021628" COLOR="#111111" LINK="http://amzn.to/nXjW2L">
+<font SIZE="12"/>
 </node>
 </node>
 </node>
@@ -634,9 +651,20 @@
 </node>
 <node TEXT="Radhasoami Beas" FOLDED="true" ID="ID_937394178" CREATED="1301439453530" MODIFIED="1301439459125" COLOR="#990000">
 <font SIZE="14"/>
-<node TEXT="Jaimal Singh" FOLDED="true" ID="ID_1063108696" CREATED="1261586192765" MODIFIED="1301439467476" COLOR="#111111">
+<node TEXT="Jaimal Singh" FOLDED="true" ID="ID_1063108696" CREATED="1261586192765" MODIFIED="1306703321779" COLOR="#111111">
 <font NAME="SansSerif" SIZE="12"/>
 <edge STYLE="bezier" WIDTH="thin"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1839&#8211;1903
+    </p>
+  </body>
+</html></richcontent>
 <node TEXT="Hazur Sawan Singh" FOLDED="true" ID="ID_1694409621" CREATED="1261586192765" MODIFIED="1301436790433" COLOR="#111111">
 <font NAME="SansSerif" SIZE="12"/>
 <node TEXT="Sardar Bahadur Jagat Singh" FOLDED="true" ID="ID_1410819793" CREATED="1261586192765" MODIFIED="1301439394802" COLOR="#111111" LINK="http://radhasoamis.freeyellow.com/">
@@ -914,6 +942,68 @@ she might've been.
 </node>
 </node>
 </node>
+<node TEXT="Sant Nirankari Mission" FOLDED="true" ID="ID_1267220453" CREATED="1306703431865" MODIFIED="1306703500131" COLOR="#111111" LINK="http://www.nirankari.org/">
+<font SIZE="12"/>
+<node TEXT="Kahn Singh" FOLDED="true" ID="ID_630635102" CREATED="1306751204968" MODIFIED="1306751212680" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="Buta Singh" FOLDED="true" ID="ID_361042573" CREATED="1306703515276" MODIFIED="1306703758739" COLOR="#111111">
+<font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1873-1943
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="Avtar Singh" FOLDED="true" ID="ID_785684182" CREATED="1306703790120" MODIFIED="1306703818771" COLOR="#111111">
+<font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1899-1969
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="Gurbachan Singh" FOLDED="true" ID="ID_1414462534" CREATED="1306703857325" MODIFIED="1306703938837" COLOR="#111111">
+<font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1930-1980 --- killed by gunshots - http://www.nirankari.org/modules/founder/babagurbachan/founderGsRes.shtml
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="Hardev Singh" ID="ID_589497710" CREATED="1306703939830" MODIFIED="1306704058913" COLOR="#111111">
+<font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      son of Gurbachan. (1980 - present)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
 </node>
 </node>
 </node>
@@ -921,7 +1011,7 @@ she might've been.
 <node TEXT="Kabir" FOLDED="true" POSITION="left" ID="ID_1125200052" CREATED="1261585462843" MODIFIED="1303554568128" COLOR="#0033ff">
 <font NAME="SansSerif" SIZE="18"/>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
-<node TEXT="Swami Girdharanand Paramhans Ji" ID="ID_1577319882" CREATED="1303554601519" MODIFIED="1303554636357" COLOR="#00b439">
+<node TEXT="Swami Girdharanand Paramhans Ji" FOLDED="true" ID="ID_1577319882" CREATED="1303554601519" MODIFIED="1303554636357" COLOR="#00b439">
 <font SIZE="16"/>
 <edge STYLE="bezier" WIDTH="thin"/>
 <node TEXT="Madhu Paramhans Ji" ID="ID_1747108756" CREATED="1303554640645" MODIFIED="1303554709047" COLOR="#990000" LINK="http://www.sahibbandgi.org/">

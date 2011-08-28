@@ -649,9 +649,21 @@
 </node>
 <node TEXT="Radhasoami Beas" ID="ID_937394178" CREATED="1301439453530" MODIFIED="1301439459125" COLOR="#990000">
 <font SIZE="14"/>
-<node TEXT="Jaimal Singh" ID="ID_1063108696" CREATED="1261586192765" MODIFIED="1301439467476" COLOR="#111111">
+<node TEXT="Jaimal Singh" ID="ID_1063108696" CREATED="1261586192765" MODIFIED="1306703321779" COLOR="#111111">
 <font NAME="SansSerif" SIZE="12"/>
 <edge STYLE="bezier" WIDTH="thin"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1839&#8211;1903
+    </p>
+  </body>
+</html>
+</richcontent>
 <node TEXT="Hazur Sawan Singh" ID="ID_1694409621" CREATED="1261586192765" MODIFIED="1301436790433" COLOR="#111111">
 <font NAME="SansSerif" SIZE="12"/>
 <node TEXT="Sardar Bahadur Jagat Singh" ID="ID_1410819793" CREATED="1261586192765" MODIFIED="1301439394802" COLOR="#111111" LINK="http://radhasoamis.freeyellow.com/">
@@ -928,6 +940,9 @@ she might've been.
 </node>
 </node>
 </node>
+</node>
+<node TEXT="" ID="ID_1267220453" CREATED="1306703431865" MODIFIED="1306703431866" COLOR="#111111">
+<font SIZE="12"/>
 </node>
 </node>
 </node>

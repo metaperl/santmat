@@ -157,21 +157,6 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Christopher Tims (Order of the Blue Star)" ID="ID_213577472" CREATED="1302683143165" MODIFIED="1302683239963" COLOR="#00b439" LINK="http://www.soundhealing.org/">
-<font SIZE="16"/>
-<edge STYLE="bezier" WIDTH="thin"/>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      also see http://www.ChristopherTims.com and http://bluestarmysteryschool.net/
-    </p>
-  </body>
-</html></richcontent>
-</node>
 </node>
 <node TEXT="Fubbi Quantz" POSITION="right" ID="ID_1659517307" CREATED="1261586400453" MODIFIED="1301345083374" COLOR="#0033ff">
 <font SIZE="18"/>
@@ -199,6 +184,21 @@
 <node TEXT="Ford Johnson (Higher Consciousness Society)" ID="ID_468894158" CREATED="1261585970437" MODIFIED="1301340434389" COLOR="#111111" LINK="http://www.thetruth-seeker.com/">
 <font SIZE="12"/>
 </node>
+<node TEXT="Christopher Tims (Order of the Blue Star)" ID="ID_213577472" CREATED="1302683143165" MODIFIED="1314563197560" COLOR="#111111" LINK="http://www.soundhealing.org/">
+<font SIZE="12"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      also see http://www.ChristopherTims.com and http://bluestarmysteryschool.net/
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node TEXT="ATOM" ID="ID_380719641" CREATED="1261585970437" MODIFIED="1301340434388" COLOR="#111111" LINK="http://atom.org">
 <font SIZE="12"/>
@@ -221,8 +221,7 @@
       According to [Novelguide](http://www.novelguide.com/a/discover/ear_01/ear_01_00174.html) Gary Olsen was with Sounds of Soul before appointed by the Lord to found MasterPath.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Gary Olsen (MasterPath)" ID="ID_1951324981" CREATED="1261585970437" MODIFIED="1301340615485" COLOR="#111111" LINK="http://www.masterpath.org/">
 <font SIZE="12"/>
 </node>
@@ -662,8 +661,7 @@
       1839&#8211;1903
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Hazur Sawan Singh" ID="ID_1694409621" CREATED="1261586192765" MODIFIED="1301436790433" COLOR="#111111">
 <font NAME="SansSerif" SIZE="12"/>
 <node TEXT="Sardar Bahadur Jagat Singh" ID="ID_1410819793" CREATED="1261586192765" MODIFIED="1301439394802" COLOR="#111111" LINK="http://radhasoamis.freeyellow.com/">
@@ -943,6 +941,8 @@ she might've been.
 </node>
 <node TEXT="Sant Nirankari Mission" ID="ID_1267220453" CREATED="1306703431865" MODIFIED="1306703500131" COLOR="#111111" LINK="http://www.nirankari.org/">
 <font SIZE="12"/>
+<node TEXT="Kahn Singh" ID="ID_630635102" CREATED="1306751204968" MODIFIED="1306751212680" COLOR="#111111">
+<font SIZE="12"/>
 <node TEXT="Buta Singh" ID="ID_361042573" CREATED="1306703515276" MODIFIED="1306703758739" COLOR="#111111">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
@@ -955,8 +955,7 @@ she might've been.
       1873-1943
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Avtar Singh" ID="ID_785684182" CREATED="1306703790120" MODIFIED="1306703818771" COLOR="#111111">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
@@ -969,8 +968,7 @@ she might've been.
       1899-1969
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Gurbachan Singh" ID="ID_1414462534" CREATED="1306703857325" MODIFIED="1306703938837" COLOR="#111111">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
@@ -983,9 +981,8 @@ she might've been.
       1930-1980 --- killed by gunshots - http://www.nirankari.org/modules/founder/babagurbachan/founderGsRes.shtml
     </p>
   </body>
-</html>
-</richcontent>
-<node TEXT="Hardev Singh" ID="ID_589497710" CREATED="1306703939830" MODIFIED="1306703998879" COLOR="#111111">
+</html></richcontent>
+<node TEXT="Hardev Singh" ID="ID_589497710" CREATED="1306703939830" MODIFIED="1306704058913" COLOR="#111111">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
 <html>
@@ -994,11 +991,11 @@ she might've been.
   </head>
   <body>
     <p>
-      son of Gurbachan. (1980 - p
+      son of Gurbachan. (1980 - present)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+</node>
 </node>
 </node>
 </node>
