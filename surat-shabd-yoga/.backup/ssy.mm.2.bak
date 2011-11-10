@@ -157,21 +157,6 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Christopher Tims (Order of the Blue Star)" ID="ID_213577472" CREATED="1302683143165" MODIFIED="1302683239963" COLOR="#00b439" LINK="http://www.soundhealing.org/">
-<font SIZE="16"/>
-<edge STYLE="bezier" WIDTH="thin"/>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      also see http://www.ChristopherTims.com and http://bluestarmysteryschool.net/
-    </p>
-  </body>
-</html></richcontent>
-</node>
 </node>
 <node TEXT="Fubbi Quantz" POSITION="right" ID="ID_1659517307" CREATED="1261586400453" MODIFIED="1301345083374" COLOR="#0033ff">
 <font SIZE="18"/>
@@ -199,6 +184,21 @@
 <node TEXT="Ford Johnson (Higher Consciousness Society)" ID="ID_468894158" CREATED="1261585970437" MODIFIED="1301340434389" COLOR="#111111" LINK="http://www.thetruth-seeker.com/">
 <font SIZE="12"/>
 </node>
+<node TEXT="Christopher Tims (Order of the Blue Star)" ID="ID_213577472" CREATED="1302683143165" MODIFIED="1314563197560" COLOR="#111111" LINK="http://www.soundhealing.org/">
+<font SIZE="12"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      also see http://www.ChristopherTims.com and http://bluestarmysteryschool.net/
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node TEXT="ATOM" ID="ID_380719641" CREATED="1261585970437" MODIFIED="1301340434388" COLOR="#111111" LINK="http://atom.org">
 <font SIZE="12"/>
@@ -221,8 +221,7 @@
       According to [Novelguide](http://www.novelguide.com/a/discover/ear_01/ear_01_00174.html) Gary Olsen was with Sounds of Soul before appointed by the Lord to found MasterPath.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Gary Olsen (MasterPath)" ID="ID_1951324981" CREATED="1261585970437" MODIFIED="1301340615485" COLOR="#111111" LINK="http://www.masterpath.org/">
 <font SIZE="12"/>
 </node>
@@ -234,6 +233,9 @@
 </node>
 <node TEXT="MSIA" ID="ID_1025350139" CREATED="1261585970437" MODIFIED="1301341053699" COLOR="#111111" LINK="http://www.msia.org/">
 <font NAME="SansSerif" SIZE="12"/>
+</node>
+<node TEXT="Sher Gill" ID="ID_603599045" CREATED="1314564012291" MODIFIED="1314564021628" COLOR="#111111" LINK="http://amzn.to/nXjW2L">
+<font SIZE="12"/>
 </node>
 </node>
 </node>
@@ -662,8 +664,7 @@
       1839&#8211;1903
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Hazur Sawan Singh" ID="ID_1694409621" CREATED="1261586192765" MODIFIED="1301436790433" COLOR="#111111">
 <font NAME="SansSerif" SIZE="12"/>
 <node TEXT="Sardar Bahadur Jagat Singh" ID="ID_1410819793" CREATED="1261586192765" MODIFIED="1301439394802" COLOR="#111111" LINK="http://radhasoamis.freeyellow.com/">

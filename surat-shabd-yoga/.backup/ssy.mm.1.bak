@@ -209,11 +209,26 @@
 <node TEXT="Michael Turner (Spiritual Freedom Satsang)" ID="ID_1345703741" CREATED="1261585970437" MODIFIED="1301340434389" COLOR="#111111" LINK="http://groups.yahoo.com/group/SFS/">
 <font SIZE="12"/>
 </node>
-</node>
-<node TEXT="Jerry Mulvin (Divine Science of Light and Sound &amp; Surtoma?)" ID="ID_996415554" CREATED="1261585970437" MODIFIED="1301344073305" COLOR="#111111">
+<node TEXT="Sounds of Soul" ID="ID_1302500866" CREATED="1306701358240" MODIFIED="1306701441220" COLOR="#111111">
+<font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      According to [Novelguide](http://www.novelguide.com/a/discover/ear_01/ear_01_00174.html) Gary Olsen was with Sounds of Soul before appointed by the Lord to found MasterPath.
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Gary Olsen (MasterPath)" ID="ID_1951324981" CREATED="1261585970437" MODIFIED="1301340615485" COLOR="#111111" LINK="http://www.masterpath.org/">
 <font SIZE="12"/>
 </node>
-<node TEXT="Gary Olsen (MasterPath)" ID="ID_1951324981" CREATED="1261585970437" MODIFIED="1301340615485" COLOR="#111111" LINK="http://www.masterpath.org/">
+</node>
+</node>
+<node TEXT="Jerry Mulvin (Divine Science of Light and Sound &amp; Surtoma?)" ID="ID_996415554" CREATED="1261585970437" MODIFIED="1301344073305" COLOR="#111111">
 <font SIZE="12"/>
 </node>
 </node>
@@ -634,9 +649,21 @@
 </node>
 <node TEXT="Radhasoami Beas" ID="ID_937394178" CREATED="1301439453530" MODIFIED="1301439459125" COLOR="#990000">
 <font SIZE="14"/>
-<node TEXT="Jaimal Singh" ID="ID_1063108696" CREATED="1261586192765" MODIFIED="1301439467476" COLOR="#111111">
+<node TEXT="Jaimal Singh" ID="ID_1063108696" CREATED="1261586192765" MODIFIED="1306703321779" COLOR="#111111">
 <font NAME="SansSerif" SIZE="12"/>
 <edge STYLE="bezier" WIDTH="thin"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1839&#8211;1903
+    </p>
+  </body>
+</html>
+</richcontent>
 <node TEXT="Hazur Sawan Singh" ID="ID_1694409621" CREATED="1261586192765" MODIFIED="1301436790433" COLOR="#111111">
 <font NAME="SansSerif" SIZE="12"/>
 <node TEXT="Sardar Bahadur Jagat Singh" ID="ID_1410819793" CREATED="1261586192765" MODIFIED="1301439394802" COLOR="#111111" LINK="http://radhasoamis.freeyellow.com/">
@@ -910,6 +937,68 @@ she might've been.
 <font SIZE="12"/>
 <node TEXT="Teja Singh" ID="ID_371409747" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
 <font SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Sant Nirankari Mission" ID="ID_1267220453" CREATED="1306703431865" MODIFIED="1306703500131" COLOR="#111111" LINK="http://www.nirankari.org/">
+<font SIZE="12"/>
+<node TEXT="Kahn Singh" ID="ID_630635102" CREATED="1306751204968" MODIFIED="1306751212680" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="Buta Singh" ID="ID_361042573" CREATED="1306703515276" MODIFIED="1306703758739" COLOR="#111111">
+<font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1873-1943
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="Avtar Singh" ID="ID_785684182" CREATED="1306703790120" MODIFIED="1306703818771" COLOR="#111111">
+<font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1899-1969
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="Gurbachan Singh" ID="ID_1414462534" CREATED="1306703857325" MODIFIED="1306703938837" COLOR="#111111">
+<font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1930-1980 --- killed by gunshots - http://www.nirankari.org/modules/founder/babagurbachan/founderGsRes.shtml
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="Hardev Singh" ID="ID_589497710" CREATED="1306703939830" MODIFIED="1306704058913" COLOR="#111111">
+<font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      son of Gurbachan. (1980 - present)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
 </node>
 </node>
 </node>
