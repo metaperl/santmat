@@ -157,8 +157,24 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Daniel Clemfield" ID="ID_809620175" CREATED="1320931183545" MODIFIED="1320931358255" COLOR="#00b439" LINK="http://groups.yahoo.com/group/radhasoamistudies/">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      goes by the name of rahm_nam in the radhasoami studies email list. Provides lots of information about meditation practices. Considers the only guru to be the Shabd.
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node TEXT="Fubbi Quantz" POSITION="right" ID="ID_1659517307" CREATED="1261586400453" MODIFIED="1301345083374" COLOR="#0033ff">
+</node>
+<node TEXT="Fubbi Quantz" FOLDED="true" POSITION="right" ID="ID_1659517307" CREATED="1261586400453" MODIFIED="1301345083374" COLOR="#0033ff">
 <font SIZE="18"/>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <node TEXT="Tim Arnold (AKATHA)" ID="ID_1964414673" CREATED="1261586417000" MODIFIED="1301341037840" COLOR="#00b439" LINK="http://www.akatha.org/">
@@ -169,17 +185,17 @@
 <font SIZE="16"/>
 <edge STYLE="bezier" WIDTH="thin"/>
 </node>
-<node TEXT="Rebazar Tarzs" ID="ID_1829215641" CREATED="1261585970437" MODIFIED="1301341053697" COLOR="#00b439">
+<node TEXT="Rebazar Tarzs" FOLDED="true" ID="ID_1829215641" CREATED="1261585970437" MODIFIED="1301341053697" COLOR="#00b439">
 <font NAME="SansSerif" SIZE="16"/>
 <edge STYLE="bezier" WIDTH="thin"/>
-<node TEXT="Paul Twitchell" ID="ID_1858537829" CREATED="1261585970437" MODIFIED="1301341053698" COLOR="#990000">
+<node TEXT="Paul Twitchell" FOLDED="true" ID="ID_1858537829" CREATED="1261585970437" MODIFIED="1301341053698" COLOR="#990000">
 <font NAME="SansSerif" SIZE="14"/>
 <edge STYLE="bezier" WIDTH="thin"/>
-<node TEXT="Eckankar" ID="ID_1767040559" CREATED="1261585970437" MODIFIED="1301341195965" COLOR="#111111" LINK="http://en.wikipedia.org/wiki/Eckankar">
+<node TEXT="Eckankar" FOLDED="true" ID="ID_1767040559" CREATED="1261585970437" MODIFIED="1301341195965" COLOR="#111111" LINK="http://en.wikipedia.org/wiki/Eckankar">
 <font NAME="SansSerif" SIZE="12"/>
-<node TEXT="Darwin Gross" ID="ID_229119614" CREATED="1261585970437" MODIFIED="1301340434385" COLOR="#111111">
+<node TEXT="Darwin Gross" FOLDED="true" ID="ID_229119614" CREATED="1261585970437" MODIFIED="1301340434385" COLOR="#111111">
 <font SIZE="12"/>
-<node TEXT="Harold Klemp (Eckankar)" ID="ID_924766965" CREATED="1261585970437" MODIFIED="1301341200974" COLOR="#111111">
+<node TEXT="Harold Klemp (Eckankar)" FOLDED="true" ID="ID_924766965" CREATED="1261585970437" MODIFIED="1301341200974" COLOR="#111111">
 <font SIZE="12"/>
 <node TEXT="Ford Johnson (Higher Consciousness Society)" ID="ID_468894158" CREATED="1261585970437" MODIFIED="1301340434389" COLOR="#111111" LINK="http://www.thetruth-seeker.com/">
 <font SIZE="12"/>
@@ -312,10 +328,10 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Radha Soami" FOLDED="true" POSITION="left" ID="ID_1259260637" CREATED="1301436773550" MODIFIED="1301440842843" COLOR="#0033ff">
+<node TEXT="Radha Soami" POSITION="left" ID="ID_1259260637" CREATED="1301436773550" MODIFIED="1301440842843" COLOR="#0033ff">
 <font SIZE="18"/>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
-<node TEXT="Shiv Dayal Singh (Soami Ji Maharaj)" FOLDED="true" ID="ID_331464081" CREATED="1261586192750" MODIFIED="1301437327587" COLOR="#00b439">
+<node TEXT="Shiv Dayal Singh (Soami Ji Maharaj)" ID="ID_331464081" CREATED="1261586192750" MODIFIED="1301437327587" COLOR="#00b439">
 <font NAME="SansSerif" SIZE="16"/>
 <edge STYLE="bezier" WIDTH="thin"/>
 <richcontent TYPE="NOTE">
@@ -649,9 +665,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Radhasoami Beas" FOLDED="true" ID="ID_937394178" CREATED="1301439453530" MODIFIED="1301439459125" COLOR="#990000">
+<node TEXT="Radhasoami Beas" ID="ID_937394178" CREATED="1301439453530" MODIFIED="1301439459125" COLOR="#990000">
 <font SIZE="14"/>
-<node TEXT="Jaimal Singh" FOLDED="true" ID="ID_1063108696" CREATED="1261586192765" MODIFIED="1306703321779" COLOR="#111111">
+<node TEXT="Jaimal Singh" ID="ID_1063108696" CREATED="1261586192765" MODIFIED="1306703321779" COLOR="#111111">
 <font NAME="SansSerif" SIZE="12"/>
 <edge STYLE="bezier" WIDTH="thin"/>
 <richcontent TYPE="NOTE">
@@ -879,11 +895,131 @@ she might've been.
 <font SIZE="12"/>
 </node>
 </node>
-<node TEXT="Radhasoami TaranTaran" FOLDED="true" ID="ID_1858506720" CREATED="1301439495757" MODIFIED="1301439503636" COLOR="#111111">
+<node TEXT="Radhasoami Tarn Taran (and defectors)" ID="ID_1858506720" CREATED="1301439495757" MODIFIED="1320932965697" COLOR="#111111">
 <font SIZE="12"/>
-<node TEXT="Bagga Singh" FOLDED="true" ID="ID_1781348600" CREATED="1261586192765" MODIFIED="1301436790434" COLOR="#111111">
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      For purposes of lineage, Sadhu Singh is listed here although he departed Taran Taran.... from David C. Lane we have:
+    </p>
+    <p>
+      [Radhasoami Studies] Teja Singh from Firozpur?--OBSCURE RADHASOAMI OFFSHOOTRadhasoami Studies x
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      neuralsurfer no_reply@yahoogroups.com
+    </p>
+    <p>
+      Oct 10
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      to radhasoamistud.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Images are not displayed. Display images below - Always display images from no_reply@yahoogroups.com
+    </p>
+    <p>
+      &#160;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Back in the 1980s when I was intensely going through various guru lineages connected with Shiv Dayal Singh from Agra, I got the chance to come across a fairly obscure (at leas to Westerners) lineage which was once connected to Tarn Taran.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;The story goes like this (according to this lineage, so let's not get jumpy quite yet):
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;1. Jaimal Singh appointed two gurus: Bagga Singh (apparently during his lifetime) and Sawan Singh.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;2. Bagga Singh was centered at Tarn Taran, and according to their own narrative he was initiating on Jaimal's behalf even when Jaimal was still alive.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;3. After Bagga's death he appointed Deva Singh who also received the backing from Sawan Singh (see WITH THE THREE MASTERS about this episode).
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;4. When Deva Singh died, apparently there was some sort of politically infighting. According to the Firozpur lineage, Sadhu Singh was appointed and they claim even received a turban from Charan to this effect..... However, Partap Singh and his faction objected, so eventually Sadhu Singh departed from Tarn Taran and eventually set up camp in Firozpur....
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;Sadhu Singh appointed Teja Singh shortly before his death in 1975. This Teja Singh is now the current guru of this center.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;Teja Singh has made several trips to America.... but usually only Indians and a few Westerners find out about it.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;NOW, I am not absolutely sure this is the same lineage, but my gut tells me this is the same cat.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;Here is the link:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      http://www.radhasoamifzr.com/
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;P.s. My info is sketchy so I would double check eveything.
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Bagga Singh" ID="ID_1781348600" CREATED="1261586192765" MODIFIED="1301436790434" COLOR="#111111">
 <font NAME="SansSerif" SIZE="12"/>
-<node TEXT="Deva Singh" FOLDED="true" ID="ID_346335675" CREATED="1261586192765" MODIFIED="1301439637642" COLOR="#111111">
+<node TEXT="Deva Singh" ID="ID_346335675" CREATED="1261586192765" MODIFIED="1301439637642" COLOR="#111111">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
 <html>
@@ -913,13 +1049,19 @@ she might've been.
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Sadhu Singh" FOLDED="true" ID="ID_1083939837" CREATED="1261586192765" MODIFIED="1320932558335" COLOR="#111111" LINK="http://www.radhasoamifzr.com/">
+<font SIZE="12"/>
+<node TEXT="Teja Singh" ID="ID_371409747" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
+<font SIZE="12"/>
 </node>
-<node TEXT="Pratap Singh (c)" FOLDED="true" ID="ID_750327866" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
+</node>
+</node>
+<node TEXT="Pratap Singh (c)" ID="ID_750327866" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
 <font SIZE="12"/>
 <node TEXT="the son" ID="ID_647959480" CREATED="1261586192765" MODIFIED="1301340434416" COLOR="#111111">
 <font SIZE="12"/>
 </node>
-<node TEXT="&#x9;Baba Kehar Singh ji" ID="ID_1257263143" CREATED="1301440128029" MODIFIED="1301440239450" COLOR="#111111" LINK="http://www.aors-dbbs.org/enter/satgurus/baba_kehar_singh_ji.htm">
+<node TEXT="&#x9;Baba Kehar Singh ji" ID="ID_1257263143" CREATED="1301440128029" MODIFIED="1320932274662" COLOR="#111111" LINK="http://www.aors-dbbs.org/enter/satgurus/baba_kehar_singh_ji.htm">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
 <html>
@@ -931,20 +1073,15 @@ she might've been.
       ( Dec 26, 1926 - present )
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
-<node TEXT="Sadhu Singh" FOLDED="true" ID="ID_1083939837" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
+</node>
+</node>
+<node TEXT="Sant Nirankari Mission" ID="ID_1267220453" CREATED="1306703431865" MODIFIED="1306703500131" COLOR="#111111" LINK="http://www.nirankari.org/">
 <font SIZE="12"/>
-<node TEXT="Teja Singh" ID="ID_371409747" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
-<font SIZE="12"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="Sant Nirankari Mission" FOLDED="true" ID="ID_1267220453" CREATED="1306703431865" MODIFIED="1306703500131" COLOR="#111111" LINK="http://www.nirankari.org/">
-<font SIZE="12"/>
-<node TEXT="Kahn Singh" FOLDED="true" ID="ID_630635102" CREATED="1306751204968" MODIFIED="1306751212680" COLOR="#111111">
+<node TEXT="Kahn Singh" ID="ID_630635102" CREATED="1306751204968" MODIFIED="1306751212680" COLOR="#111111">
 <font SIZE="12"/>
 <node TEXT="Buta Singh" FOLDED="true" ID="ID_361042573" CREATED="1306703515276" MODIFIED="1306703758739" COLOR="#111111">
 <font SIZE="12"/>
@@ -1008,7 +1145,7 @@ she might've been.
 </node>
 </node>
 </node>
-<node TEXT="Kabir" FOLDED="true" POSITION="left" ID="ID_1125200052" CREATED="1261585462843" MODIFIED="1303554568128" COLOR="#0033ff">
+<node TEXT="Kabir" POSITION="left" ID="ID_1125200052" CREATED="1261585462843" MODIFIED="1303554568128" COLOR="#0033ff">
 <font NAME="SansSerif" SIZE="18"/>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <node TEXT="Swami Girdharanand Paramhans Ji" FOLDED="true" ID="ID_1577319882" CREATED="1303554601519" MODIFIED="1303554636357" COLOR="#00b439">
@@ -1028,6 +1165,18 @@ she might've been.
   </body>
 </html></richcontent>
 </node>
+</node>
+<node TEXT="Ravidas" ID="ID_504230822" CREATED="1320929017528" MODIFIED="1320930573592" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+<node TEXT="Dadu Sahib" ID="ID_689325199" CREATED="1320930375871" MODIFIED="1320930575725" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+<node TEXT="Dharam Das" ID="ID_427048027" CREATED="1320930393581" MODIFIED="1320930578394" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
 </node>
 </node>
 </node>
