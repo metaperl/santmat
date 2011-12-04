@@ -879,7 +879,7 @@ she might've been.
 <font SIZE="12"/>
 </node>
 </node>
-<node TEXT="Radhasoami TaranTaran (and defectors)" ID="ID_1858506720" CREATED="1301439495757" MODIFIED="1320930938179" COLOR="#111111">
+<node TEXT="Radhasoami TaranTaran (and defectors)" ID="ID_1858506720" CREATED="1301439495757" MODIFIED="1320930946912" COLOR="#111111">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
 <html>
@@ -888,7 +888,7 @@ she might've been.
   </head>
   <body>
     <p>
-      For purposes of lineage, Sadhu Singh is listed here&#160;&#160;departed Taran Taran,
+      For purposes of lineage, Sadhu Singh is listed here although he departed Taran Taran.
     </p>
   </body>
 </html>
@@ -925,8 +925,22 @@ she might've been.
   </body>
 </html></richcontent>
 </node>
-<node TEXT="" ID="ID_1660379830" CREATED="1320930827885" MODIFIED="1320930827886" COLOR="#111111">
+<node TEXT="Sadhu Singh" ID="ID_1083939837" CREATED="1261586192765" MODIFIED="1320930897093" COLOR="#111111" LINK="http://www.radhasoamifzr.com/">
 <font SIZE="12"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      This person is an init
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="Teja Singh" ID="ID_371409747" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
+<font SIZE="12"/>
+</node>
 </node>
 </node>
 <node TEXT="Pratap Singh (c)" ID="ID_750327866" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
@@ -947,24 +961,6 @@ she might've been.
     </p>
   </body>
 </html></richcontent>
-</node>
-</node>
-<node TEXT="Sadhu Singh" ID="ID_1083939837" CREATED="1261586192765" MODIFIED="1320930897093" COLOR="#111111" LINK="http://www.radhasoamifzr.com/">
-<font SIZE="12"/>
-<richcontent TYPE="NOTE">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      This person is an init
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="Teja Singh" ID="ID_371409747" CREATED="1261586192765" MODIFIED="1301340434415" COLOR="#111111">
-<font SIZE="12"/>
 </node>
 </node>
 </node>

@@ -157,9 +157,21 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="" ID="ID_809620175" CREATED="1320931183545" MODIFIED="1320931183546" COLOR="#00b439">
+<node TEXT="Daniel Clemfield" ID="ID_809620175" CREATED="1320931183545" MODIFIED="1320931298234" COLOR="#00b439">
 <font SIZE="16"/>
 <edge STYLE="bezier" WIDTH="thin"/>
+<richcontent TYPE="NOTE">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      goes by the name of rahm_nam in the radhasoami studies email list. Provides lots of information about meditation practices. Considers the only guru to be the S
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node TEXT="Fubbi Quantz" POSITION="right" ID="ID_1659517307" CREATED="1261586400453" MODIFIED="1301345083374" COLOR="#0033ff">

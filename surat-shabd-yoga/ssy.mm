@@ -170,8 +170,7 @@
       goes by the name of rahm_nam in the radhasoami studies email list. Provides lots of information about meditation practices. Considers the only guru to be the Shabd.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Fubbi Quantz" POSITION="right" ID="ID_1659517307" CREATED="1261586400453" MODIFIED="1301345083374" COLOR="#0033ff">
@@ -1015,8 +1014,7 @@ she might've been.
       &#160;P.s. My info is sketchy so I would double check eveything.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Bagga Singh" ID="ID_1781348600" CREATED="1261586192765" MODIFIED="1301436790434" COLOR="#111111">
 <font NAME="SansSerif" SIZE="12"/>
 <node TEXT="Deva Singh" ID="ID_346335675" CREATED="1261586192765" MODIFIED="1301439637642" COLOR="#111111">
@@ -1073,8 +1071,7 @@ she might've been.
       ( Dec 26, 1926 - present )
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -1083,7 +1080,7 @@ she might've been.
 <font SIZE="12"/>
 <node TEXT="Kahn Singh" ID="ID_630635102" CREATED="1306751204968" MODIFIED="1306751212680" COLOR="#111111">
 <font SIZE="12"/>
-<node TEXT="Buta Singh" ID="ID_361042573" CREATED="1306703515276" MODIFIED="1306703758739" COLOR="#111111">
+<node TEXT="Buta Singh" ID="ID_361042573" CREATED="1306703515276" MODIFIED="1320972098088" COLOR="#111111">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
 <html>
@@ -1095,7 +1092,8 @@ she might've been.
       1873-1943
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node TEXT="Avtar Singh" ID="ID_785684182" CREATED="1306703790120" MODIFIED="1306703818771" COLOR="#111111">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">

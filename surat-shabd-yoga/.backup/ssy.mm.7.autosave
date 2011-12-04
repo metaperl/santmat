@@ -1072,7 +1072,7 @@ she might've been.
 <node TEXT="the son" ID="ID_647959480" CREATED="1261586192765" MODIFIED="1301340434416" COLOR="#111111">
 <font SIZE="12"/>
 </node>
-<node TEXT="&#x9;Baba Kehar Singh ji" ID="ID_1257263143" CREATED="1301440128029" MODIFIED="1301440239450" COLOR="#111111" LINK="http://www.aors-dbbs.org/enter/satgurus/baba_kehar_singh_ji.htm">
+<node TEXT="&#x9;Baba Kehar Singh ji" ID="ID_1257263143" CREATED="1301440128029" MODIFIED="1320932274662" COLOR="#111111" LINK="http://www.aors-dbbs.org/enter/satgurus/baba_kehar_singh_ji.htm">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
 <html>
@@ -1084,7 +1084,8 @@ she might've been.
       ( Dec 26, 1926 - present )
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
