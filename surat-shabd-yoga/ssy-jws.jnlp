@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><jnlp spec="1.0+" href="file:/C:/cygwin64/home/terre/prg/santmat/surat-shabd-yoga/ssy-jws.jnlp" codebase="ssy-jws.jnlp_files/">
+<information>
+<title>Freeplane Viewer Applet</title>
+<vendor>Freeplane Team</vendor>
+</information>
+<resources>
+<j2se version="1.7+" href="http://java.sun.com/products/autodl/j2se"/>
+<jar href="freeplaneviewer.jar" main="true"/>
+<jar href="kitfox-svg-salamander-1.1.1-p1.jar" main="false"/>
+</resources>
+<security>
+<all-permissions/>
+</security>
+<applet-desc name="Freeplane Viewer Applet" main-class="org.freeplane.main.applet.FreeplaneApplet" width="800" height="600">
+<param name="browsemode_initial_map" value="./map.mm"/>
+<param name="selection_method" value="selection_method_direct"/>
+<param name="launched_by_java_web_start" value="true"/>
+</applet-desc>
+<update check="background"/>
+</jnlp>
