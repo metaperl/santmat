@@ -980,7 +980,8 @@ she might've been.
 </html>
 </richcontent>
 </node>
-<node TEXT="Baba Premanathji Maharaj (Sri S.B.Pathrappa)" ID="ID_1947620160" CREATED="1569099565224" MODIFIED="1569099585387">
+<node TEXT="Baba Premanathji Maharaj (Sri S.B.Pathrappa)" ID="ID_1947620160" CREATED="1569099565224" MODIFIED="1569592860056">
+<font SIZE="12"/>
 <node ID="ID_757293063" CREATED="1569099647959" MODIFIED="1569099701867"><richcontent TYPE="NODE">
 
 <html>
@@ -993,7 +994,6 @@ she might've been.
     </p>
   </body>
 </html>
-
 </richcontent>
 <richcontent TYPE="NOTE">
 
@@ -1007,7 +1007,6 @@ she might've been.
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -1015,7 +1014,7 @@ she might've been.
 <node TEXT="Pritam Das" ID="ID_2524600" CREATED="1261586192765" MODIFIED="1301340434414" COLOR="#111111">
 <font SIZE="12"/>
 </node>
-<node TEXT="Shah Mastana of Baluchistan" ID="ID_1346970793" CREATED="1261586192765" MODIFIED="1303670104847" COLOR="#111111">
+<node TEXT="Shah Mastana of Baluchistan" FOLDED="true" ID="ID_1346970793" CREATED="1261586192765" MODIFIED="1303670104847" COLOR="#111111">
 <font SIZE="12"/>
 <richcontent TYPE="NOTE">
 
@@ -1055,6 +1054,24 @@ she might've been.
 </node>
 <node TEXT="Ishwari Puri" ID="ID_1328386523" CREATED="1301431127995" MODIFIED="1302682916100" LINK="http://HazurSawanIshwarPuri.com" COLOR="#111111">
 <font SIZE="12"/>
+</node>
+<node TEXT="Chander Prahba" ID="ID_1102990759" CREATED="1569592831993" MODIFIED="1569592854045">
+<font SIZE="12"/>
+<node TEXT="Shrimati Uma Sharma Ji" ID="ID_776833288" CREATED="1569592908321" MODIFIED="1569592962613"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <a href="https://github.com/metaperl/santmat/wiki/Chander-Prabha">https://github.com/metaperl/santmat/wiki/Chander-Prabha</a>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 </node>
 <node TEXT="Radhasoami Tarn Taran (and defectors)" FOLDED="true" ID="ID_1858506720" CREATED="1301439495757" MODIFIED="1320932965697" COLOR="#111111">
