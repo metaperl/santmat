@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
-	<global_window_position top="50" left="50" height="500" width="700"/>
-	<global_log_window_position top="0" left="0" height="0" width="0"/>
-</globals>
+<leo_header file_format="2"/>
+<globals/>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="metaperl.20191004190421.208" a="E"><vh>Surat Shabd Yoga</vh>
+<v t="metaperl.20191004190421.208"><vh>Surat Shabd Yoga</vh>
 <v t="metaperl.20191004190421.209"><vh>Bhagat Thind Singh</vh>
 <v t="metaperl.20191004190421.210"><vh>The Eureka Society</vh></v>
 <v t="metaperl.20191004190421.211"><vh>Audle Allison</vh></v>
 <v t="metaperl.20191004190421.212"><vh>Thomas Ambrister</vh>
 <v t="metaperl.20191004190421.213"><vh>Craig Kimbrough</vh></v>
 </v>
+</v>
+<v t="metaperl.20191004190421.226"><vh>Supreme Master Ching Hai</vh>
+<v t="metaperl.20200815043217.1"><vh>Master Adi Dharma</vh></v>
 </v>
 <v t="metaperl.20191004190421.214"><vh>Shabad Misc</vh>
 <v t="metaperl.20191004190421.215"><vh>Swarup Anand</vh>
@@ -34,7 +34,6 @@
 </v>
 </v>
 </v>
-<v t="metaperl.20191004190421.226"><vh>Supreme Master Ching Hai</vh></v>
 <v t="metaperl.20191004190421.227"><vh>Dariya Sahib</vh></v>
 <v t="metaperl.20191004190421.228"><vh>Nanak</vh>
 <v t="metaperl.20191004190421.229"><vh>Angad</vh>
@@ -285,7 +284,8 @@
 <t tx="metaperl.20191004190421.223"></t>
 <t tx="metaperl.20191004190421.224"></t>
 <t tx="metaperl.20191004190421.225"></t>
-<t tx="metaperl.20191004190421.226"></t>
+<t tx="metaperl.20191004190421.226">A very novel master. Does not reveal her initiation or connection to former master because of the allegations against him?
+</t>
 <t tx="metaperl.20191004190421.227"></t>
 <t tx="metaperl.20191004190421.228"></t>
 <t tx="metaperl.20191004190421.229"></t>
@@ -439,5 +439,9 @@
 <t tx="metaperl.20191004190421.377"></t>
 <t tx="metaperl.20191004190421.378"></t>
 <t tx="metaperl.20191004190421.379"></t>
+<t tx="metaperl.20200815043217.1">https://yogisvara.org
+
+Indonesian teacher.
+</t>
 </tnodes>
 </leo_file>
